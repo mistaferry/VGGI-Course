@@ -1,4 +1,4 @@
-# Assignment 3 — Texture Mapping
+# Assignment 3 - Texture Mapping
 
 This branch contains the third WebGL assignment completed as part of the VGGI module.
 
