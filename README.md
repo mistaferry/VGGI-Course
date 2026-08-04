@@ -1,27 +1,40 @@
-# WebGL Graphics Assignments
+# Assignment 1 — Surface Rendering
 
-A collection of university assignments completed as part of the **VGGI (Visualization of graphical and geometric information) credit module**.
+This branch contains the first WebGL assignment completed as part of the VGGI module.
 
-The repository is based on starter code and an initial project structure provided by the course instructor. During the course, the original implementation was extended by adding different WebGL rendering features.
+## Assignment Goal
 
-Each assignment is stored in a separate Git branch.
+The goal of the assignment was to extend the provided WebGL starter project with surface rendering functionality.
 
-## Assignments
+## Rendered Surface
 
-| Branch                                    | Topic             | Description                                                              |
-| ----------------------------------------- | ----------------- | ------------------------------------------------------------------------ |
-| [`Assignment 1`](https://github.com/mistaferry/WEBGl/tree/PA1) | Surface Rendering | Implementation of basic geometry and surface rendering in WebGL          |
-| [`Assignment 2`](https://github.com/mistaferry/WEBGl/tree/PA2) | Lighting   | Implementation of lighting, materials, and shading calculations |
-| [`Calculation and graphics work`](https://github.com/mistaferry/WEBGl/tree/CGW) | Texture Transformation | Implementation of texture scaling or rotation around a movable UV point |
+**Surface:** `A Surface of Revolution with Damping Circular Waves`
 
-More detailed information about each assignment is available in the `README.md` file of the corresponding branch.
+The surface is generated and rendered using vertex data, index buffers, and transformation matrices.
 
-## Project Structure
+## Implemented Features
 
-The assignments build upon one another. Later branches may therefore contain functionality implemented during previous assignments together with newly added features.
+- creation and rendering of the selected geometric surface
+- vertex and index buffer handling
+- object transformations
+- additional rendering functionality required by the assignment
 
-## Credits
+## Screenshots
 
-The original starter code and project structure were provided by the course instructor as part of the VGGI module.
+### Surface View
 
-The assignment implementations, modifications, and additional WebGL features contained in the respective branches were completed by me.
+![Surface View](screenshots/surface-view.png)
+
+### Alternative View
+
+![Alternative View](screenshots/surface-view-2.png)
+
+## Starter Code
+
+The initial project structure and basic WebGL setup were provided by the course instructor.
+
+The surface rendering functionality and assignment-specific modifications were implemented as part of the coursework.
+
+## Other Assignments
+
+An overview of all assignments is available in the [`main`](http://github.com/mistaferry/WEBGl/tree/main) branch.
