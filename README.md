@@ -20,7 +20,6 @@ The goal of the assignment was to extend the previous lighting implementation wi
 
 <p align="center">
   <img src="docs/textured-surface.png" alt="Textured Surface" width="49%">
-  <img src="docs/textured-surface-close-up.png" alt="Textured Surface Close-up" width="49%">
 </p>
 
 ## Texture Maps
