@@ -10,9 +10,10 @@ Each assignment is stored in a separate Git branch.
 
 | Branch                                    | Topic             | Description                                                              |
 | ----------------------------------------- | ----------------- | ------------------------------------------------------------------------ |
-| [`Assignment 1`](https://github.com/mistaferry/WEBGl/tree/PA1) | Surface Rendering | Implementation of basic geometry and surface rendering in WebGL          |
+| [`Assignment 1`](https://github.com/mistaferry/WEBGl/tree/PA1) | Surface Rendering | Implementation of basic geometry and surface rendering in WebGL |
 | [`Assignment 2`](https://github.com/mistaferry/WEBGl/tree/PA2) | Lighting   | Implementation of lighting, materials, and shading calculations |
-| [`Calculation and graphics work`](https://github.com/mistaferry/WEBGl/tree/CGW) | Texture Transformation | Implementation of texture scaling or rotation around a movable UV point |
+| [`Assignment 2`](https://github.com/mistaferry/WEBGl/tree/PA3) | Texture   | Adding texture to the surface using diffuse, normal and specular maps |
+| [`Calculation and graphics work`](https://github.com/mistaferry/WEBGl/tree/CGW) | Texture Transformation | Implementation of texture scaling and a movable UV point |
 
 More detailed information about each assignment is available in the `README.md` file of the corresponding branch.
 
