@@ -23,11 +23,11 @@ The surface is generated and rendered using vertex data, index buffers, and tran
 
 ### Surface View
 
-![Surface View](screenshots/surface-view.png)
+![Surface View](docs/surface-view.png)
 
 ### Alternative View
 
-![Alternative View](screenshots/surface-view-2.png)
+![Alternative View](docs/surface-view-2.png)
 
 ## Starter Code
 
