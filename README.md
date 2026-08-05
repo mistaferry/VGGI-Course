@@ -1,4 +1,4 @@
-# WebGL Graphics Assignments
+# VGGI WebGL Graphics Coursework
 
 A collection of university assignments completed as part of the **VGGI (Visualization of graphical and geometric information) credit module**.
 
